@@ -17,14 +17,14 @@ Having clear requirements gives us
 
 To do List : requirements
   1. it should have a place to _store_ todos
-  --  In javascript, the _list of todos_ is represented by an _ARRAY_
-  --  This list is _stored_ in the a variable.
-  --  We call this variable  *tudos*.
-  --  The variable *todos* is a reference to the array containing our list.
+  --*  In javascript, the _list of todos_ is represented by an _ARRAY_
+  --*  __This list is _stored_ in a variable.__
+  --*  We call this variable  *tudos*.
+  --*  The variable *todos* is a reference to the array containing our list.
   ```javascript
   var tudos = ['item 1', 'item 2', 'item 3']
   ```
-  2. it should have a waay to _display_ todos
+  2. it should have a way to _display_ todos
   3. it should have a way to _add_ new todos
   4. it should have a way to _change_ a todo
   5. it should have a way to _delete_ a todo
