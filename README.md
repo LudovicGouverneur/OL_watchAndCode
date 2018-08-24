@@ -17,6 +17,7 @@ Having clear requirements gives us
 
 To do List : requirements
   1. it should have a place to _store_ todos
+  
      n javascript, the _list of todos_ is represented by an _ARRAY_
     *  __This list is _stored_ in a variable.__
     *  We call this variable  *tudos*.
