@@ -17,6 +17,9 @@ Having clear requirements gives us
 
 To do List : requirements
   1. it should have a place to _store_ todos
+  ```javascript
+  var tudos = ['item 1', 'item 2', 'item 3']
+  ```
   2. it should have a waay to _display_ todos
   3. it should have a way to _add_ new todos
   4. it should have a way to _change_ a todo
