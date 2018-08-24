@@ -17,6 +17,7 @@ Having clear requirements gives us
 
 To do List : requirements
   1. it should have a place to _store_ todos
+  In javascript, the _list of todos_ is represented by an _ARRAY_. This list is _stored_ in the a variable. We call this variable  *tudos*
   ```javascript
   var tudos = ['item 1', 'item 2', 'item 3']
   ```
