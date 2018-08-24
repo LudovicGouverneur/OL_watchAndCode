@@ -18,15 +18,13 @@ Having clear requirements gives us
 To do List : requirements
   1. it should have a place to _store_ todos
      
-     __This list is _stored_ in a variable.__  
+     __This TODOS list is _stored_ in a variable.__ called *todos* :   
      
       ```javascript
-      var tudos = ['item 1', 'item 2', 'item 3']
+      var todos = ['item 1', 'item 2', 'item 3']
       ```   
  
-     In javascript, the _list of todos_ is represented by an _ARRAY_  
-     We call this variable  *tudos*.  
-     The variable *todos* is a reference to the array containing our list.  
+     > In javascript, the _list of todos_ is represented by an _ARRAY_ . In the example above, *todos* is not the name of the array, but the name of the variable pointing to it. The variable *todos* is a reference to the array containing our list.  
   
   2. it should have a way to _display_ todos
   3. it should have a way to _add_ new todos
