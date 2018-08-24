@@ -20,9 +20,10 @@ To do List : requirements
      
      __This list is _stored_ in a variable.__  
      
-                    ```javascript
-                    var tudos = ['item 1', 'item 2', 'item 3']
-                    ```   
+      ```javascript
+      var tudos = ['item 1', 'item 2', 'item 3']
+      ```   
+ 
      In javascript, the _list of todos_ is represented by an _ARRAY_  
      We call this variable  *tudos*.  
      The variable *todos* is a reference to the array containing our list.  
